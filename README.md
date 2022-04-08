@@ -14,7 +14,7 @@ const aboutMe = {
       
    },
    currentOccupation: ["I am an IT newbie, open for job opportunities"],
-   challenge: "🌱 I’m currently learning: Docker, MongoDB, K8s, --- Sharpening my Front End Skills for the MERN stack (Personal goal)",
+   challenge: "🌱 I’m currently learning: Docker, MongoDB, K8s, --- Sharpening my Front End Skills (Personal goal)",
    language: [`Spanish (native)`, `English (fluent)`],
 };
 ```
